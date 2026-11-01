@@ -1,0 +1,10 @@
+sqlalchemy
+psycopg2-binary
+pandas
+pyarrow
+duckdb
+streamlit
+python-dotenv
+plotly
+pytest
+requests
